@@ -22,5 +22,6 @@ module.exports = {
     'import/no-unresolved': 0,
     'no-plusplus': ['off'],
     'consistent-return': ['off'],
+    'newline-before-return': 'error',
   },
 }
