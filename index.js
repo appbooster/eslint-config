@@ -23,5 +23,6 @@ module.exports = {
     'no-plusplus': ['off'],
     'consistent-return': ['off'],
     'newline-before-return': 'error',
+    'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
   },
 }
