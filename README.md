@@ -17,3 +17,7 @@ yarn add --dev @appbooster/eslint-config
 ```
 extends: '@appbooster/eslint-config-base'
 ```
+
+## Releasing
+
+To publish new version to npm update version in package.json and create new release. TravisCI will automatically publish new version to npm
