@@ -9,7 +9,7 @@ Shared eslint config of Appbooster organization
 1) Install the package:
 
 ```
-yarn add --dev @appbooster/eslint-config
+yarn add --dev @appbooster/eslint-config-base
 ```
 
 2) Add eslint [config](https://eslint.org/docs/user-guide/configuring#configuration-file-formats) in the root folder and add `extends` option. I.e. using YAML format put file `.eslintrc.yml` with content:
